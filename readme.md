@@ -1,4 +1,4 @@
-A simple pic16f84 library to drive an SDA5708D display, used on the NOKIA Mediamaster 9500S satellite receiver 
+A simple pic16f84 library to drive an SDA5708 display, used on the NOKIA Mediamaster 9500S satellite receiver 
 (Known also as DBox)
 The display is composed by 7 Characters made by 5x7 pixels 
 It has no char rom, so the pixels has to be addressed individually.
